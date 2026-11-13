@@ -63,6 +63,13 @@ contacto:
 # Para resaltar una obra en grande, agrégale: destacada: true
 publicaciones:
   - anio: 2026
+    tipo: capitulo
+    titulo: "Long-form livestream influencers. A qualitative analysis of the five most popular Mexican Twitch channels from an affordances perspective"
+    autores: ""
+    fuente: "En Digital Cultures, Ethics, and Corporate Responsibility: Perspectives in Contemporary Innovation (1.ª ed., cap. 34). Libros Grupo Compás"
+    enlace: https://repo.grupocompas.com/items/c32165ce-b35b-48cc-81ba-1a75aefa0809
+
+  - anio: 2026
     tipo: articulo
     titulo: "TikTok en las aulas universitarias mexicanas desde la ecología mediática de Neil Postman"
     autores: E. Portas Ruiz
