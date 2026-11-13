@@ -62,7 +62,7 @@ contacto:
 # tipo: libro | articulo | capitulo | editorial | otro
 # Para resaltar una obra en grande, agrégale: destacada: true
 publicaciones:
-  - anio: 2025
+  - anio: 2026
     tipo: articulo
     titulo: "TikTok en las aulas universitarias mexicanas desde la ecología mediática de Neil Postman"
     autores: E. Portas Ruiz
