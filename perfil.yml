@@ -1,0 +1,140 @@
+# ─────────────────────────────────────────────────────────────
+#  TU PÁGINA DE INVESTIGADOR
+#  Este es el ÚNICO archivo que necesitas editar.
+#  Página publicada: https://investigadores-cica.pages.dev/eduardo-portas
+#  Reglas: respeta los espacios al inicio de cada línea,
+#  y deja entre comillas los textos que lleven dos puntos (:).
+#  Si un dato no aplica, déjalo vacío ("") y no aparecerá.
+#  Este repositorio es público: no pongas datos personales
+#  (celular, domicilio particular). Todo queda en el historial.
+# ─────────────────────────────────────────────────────────────
+
+tratamiento: Dr.
+nombre: Eduardo Portas Ruiz
+cargo: Profesor investigador
+adscripcion: Centro de Investigación para la Comunicación Aplicada (CICA), Facultad de Comunicación
+institucion: Universidad Anáhuac México
+
+# Una sola oración que resuma tu línea de pensamiento.
+frase: Estudia cómo las plataformas digitales y la inteligencia artificial moldean los hábitos, la atención y el aprendizaje de las nuevas generaciones.
+
+# Foto: pega el enlace de tu foto, o sube la imagen a este repositorio y escribe aquí su nombre (ej. foto.jpg).
+# Se muestra en círculo; funciona mejor una foto cuadrada con la cara al centro.
+foto: "https://humannonhumanlab.com/__l5e/assets-v1/a6465639-333a-4fd1-9500-dbdcc6456b6f/eduardo-portas.jpg"
+
+# Color de acento de tu página (opcional).
+color: "#F29B66"
+
+temas:
+  - Cultura digital juvenil
+  - Plataformas y economía de la atención
+  - Inteligencia artificial en la educación superior
+  - Periodismo y nuevos medios
+
+# Tu semblanza. Separa los párrafos con una línea en blanco.
+# Usa *asteriscos* para poner títulos de obras en cursivas.
+bio: |
+  Doctor en Comunicación y Mercadotecnia Estratégica por la Universidad Anáhuac México, donde es profesor investigador del Centro de Investigación para la Comunicación Aplicada (CICA) y miembro del Human & Nonhuman Communication Lab.
+
+  Estudia la cultura digital juvenil: cómo plataformas como TikTok y YouTube, y herramientas de inteligencia artificial, cambian los hábitos, la atención y las formas de aprender de las nuevas generaciones, y qué retos plantean para la universidad.
+
+  Antes de dedicarse a la academia fue periodista. Trabajó como reportero, editor y coordinador web en el diario *Reforma*, fue editor en jefe del portal EjeCentral y reportero sénior de ADNPolítico (CNN Expansión), y ha colaborado con *El País*. Es licenciado en Comunicación por la Universidad Iberoamericana, maestro en Periodismo por la Universitat de Barcelona (IL3), en un programa conjunto con Columbia University, y maestro en Historia Moderna de México por Casa Lamm.
+
+distinciones: []
+
+# ── PERFILES ACADÉMICOS ──────────────────────────────────────
+# Pega el enlace completo. En ORCID basta el número.
+perfiles:
+  orcid: 0000-0001-9117-0061
+  google_scholar: https://scholar.google.com/citations?user=lBFPzPAAAAAJ
+  scopus: ""
+  researchgate: https://www.researchgate.net/profile/Eduardo_Portas2
+  academia_edu: ""
+  linkedin: ""
+  sitio_web: ""
+
+contacto:
+  correo: eduardo.portas@anahuac.mx
+  direccion: Av. Universidad Anáhuac 46, Lomas Anáhuac, Huixquilucan, Estado de México, 52786
+
+# ── PUBLICACIONES ────────────────────────────────────────────
+# Copia un bloque completo (desde el guion "-") para agregar una nueva.
+# tipo: libro | articulo | capitulo | editorial | otro
+# Para resaltar una obra en grande, agrégale: destacada: true
+publicaciones:
+  - anio: 2025
+    tipo: articulo
+    titulo: "TikTok en las aulas universitarias mexicanas desde la ecología mediática de Neil Postman"
+    autores: E. Portas Ruiz
+    fuente: Comunicação Midiática, 20(2), pp. 230-250
+    enlace: https://www2.faac.unesp.br/comunicacaomidiatica/index.php/CM/article/download/694/582/2310
+
+  - anio: 2025
+    tipo: articulo
+    titulo: "Productividad y creatividad: explorando el uso y la apropiación de la inteligencia artificial en la comunicación contemporánea en México"
+    autores: J. A. Hidalgo Toledo y E. Portas Ruiz
+    fuente: Comunicación y Sociedad, e8769
+    enlace: https://doi.org/10.32870/cys.v2025.8769
+    destacada: true
+    resumen: A partir de una encuesta a 327 personas, analiza qué herramientas de inteligencia artificial usan los mexicanos, para qué, y cómo equilibran sus beneficios con sus implicaciones éticas.
+
+  - anio: 2022
+    tipo: articulo
+    titulo: YouTube, the Attention Economy and Digital Audience Interest in Sponsored ASMR Videos
+    autores: E. Portas Ruiz
+    fuente: The Anáhuac Journal, 22(2), pp. 12-41
+    enlace: https://doi.org/10.36105/theanahuacjour.2022v22n2.01
+
+  - anio: 2022
+    tipo: capitulo
+    titulo: YouTube, el fenómeno digital ASMR y los susurros mediados por la pantalla
+    autores: E. Portas Ruiz, L. F. Ramírez y A. Novelo
+    fuente: "En Pensando la comunicación: reflexiones y debates en un mundo hiperconectado"
+    enlace: ""
+
+  - anio: 2022
+    tipo: otro
+    titulo: Detonadores del entorno digital académico
+    autores: E. Portas Ruiz
+    fuente: Universidad Anáhuac México
+    enlace: ""
+
+  - anio: 2021
+    tipo: capitulo
+    titulo: La devaluación del peso de 1976 vista desde las páginas de la revista Expansión
+    autores: E. Portas Ruiz
+    fuente: En Estudios sobre periodismo en México, pp. 191-223
+    enlace: ""
+
+  - anio: 2021
+    tipo: capitulo
+    titulo: "Comunicación y desarrollo: contribución y relectura de los aportes de Wilbur Schramm"
+    autores: E. Portas Ruiz
+    fuente: En Guerras teóricas de la comunicación, pp. 119-134
+    enlace: ""
+
+# Si lo cambias a true, la página también trae tus publicaciones
+# directamente de tu registro público de ORCID y las suma a esta lista.
+orcid_automatico: false
+
+# ── FORMACIÓN ────────────────────────────────────────────────
+formacion:
+  - anio: ""
+    titulo: Doctorado en Comunicación y Mercadotecnia Estratégica
+    institucion: Universidad Anáhuac México
+    nota: ""
+  - anio: ""
+    titulo: Maestría en Periodismo
+    institucion: Universitat de Barcelona (IL3)
+    nota: Programa conjunto con Columbia University
+  - anio: ""
+    titulo: Maestría en Historia Moderna de México
+    institucion: Casa Lamm
+    nota: ""
+  - anio: ""
+    titulo: Licenciatura en Comunicación
+    institucion: Universidad Iberoamericana
+    nota: ""
+
+# Fecha de la última revisión de esta página (año-mes-día).
+actualizado: "2026-11-13"
