@@ -1,4 +1,4 @@
-# Perfil del Dr. Eduardo Portas Ruiz
+# Perfil de Eduardo Portas
 
 Contenido de su página de investigador del CICA, Facultad de Comunicación, Universidad Anáhuac México.
 
@@ -19,7 +19,7 @@ Tres reglas para que no se rompa:
 - Si un texto lleva dos puntos (`:`), ponlo entre comillas: `titulo: "Ética: una introducción"`.
 - Si no tienes un dato, déjalo como `""`. No aparecerá en la página.
 
-Si algo sale mal, la página te dice en qué línea está el error. En **History** puedes volver a cualquier versión anterior.
+Después de guardar, GitHub revisa el archivo automáticamente (pestaña **Actions**). Si aparece una ✗ roja, abre el detalle: dice qué campo corregir. En **History** puedes volver a cualquier versión anterior.
 
 ## Editar con tu asistente de IA
 
@@ -31,6 +31,13 @@ Luego pídelo en lenguaje normal, por ejemplo:
 > Agrega a mi perfil este artículo: https://doi.org/... y actualiza mi semblanza con este párrafo: ...
 
 El asistente sigue las reglas de [`AGENTS.md`](AGENTS.md): solo cambia tu perfil, no inventa datos y te pide visto bueno antes de guardar. Revisa el cambio antes de aprobarlo.
+
+## Tu foto
+
+Pega el enlace de tu foto en `foto:`, o sube la imagen a este repositorio (**Add file → Upload files**) y escribe su nombre (`foto: foto.jpg`). Se muestra en círculo. Si la cara queda pequeña o descentrada, ajusta:
+
+- `foto_zoom: 1.4` acerca la imagen (1 = sin acercar).
+- `foto_posicion: "50% 0%"` elige qué parte se ve (horizontal y vertical; `0%` = arriba).
 
 ## Este repositorio es público
 
