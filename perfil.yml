@@ -132,7 +132,7 @@ publicaciones:
     titulo: "Comunicación y desarrollo: contribución y relectura de los aportes de Wilbur Schramm"
     autores: E. Portas Ruiz
     fuente: En Guerras teóricas de la comunicación, pp. 119-134
-    enlace: ""
+    enlace: https://www.peterlang.com/document/1058749
 
 # Si lo cambias a true, la página también trae tus publicaciones
 # directamente de tu registro público de ORCID y las suma a esta lista.
