@@ -85,6 +85,20 @@ publicaciones:
     destacada: true
     resumen: A partir de una encuesta a 327 personas, analiza qué herramientas de inteligencia artificial usan los mexicanos, para qué, y cómo equilibran sus beneficios con sus implicaciones éticas.
 
+  - anio: 2023
+    tipo: articulo
+    titulo: Mexican College Teacher’s Job Satisfaction During the Covid-19 Pandemic Represented Through a Technostress Matrix
+    autores: E. Portas Ruiz y L. F. Ramírez Alvarado
+    fuente: International Journal of Design Sciences & Technology, 25(2), pp. 1-12
+    enlace: https://www.ijdst.eu/index.php/ijdst/article/view/96
+
+  - anio: 2023
+    tipo: capitulo
+    titulo: El tecnoestrés en las organizaciones y la docencia. Revisión de la literatura alrededor de un fenómeno que va en aumento
+    autores: E. Portas Ruiz y L. F. Ramírez Alvarado
+    fuente: En Fórmulas para una comunicación organizacional efectiva, pp. 307-322
+    enlace: https://www.tecnos.es/libro/otras-publicaciones/formulas-para-una-comunicacion-organizacional-efectiva-jose-jesus-trujillo-vargas-9788430987559/
+
   - anio: 2022
     tipo: articulo
     titulo: YouTube, the Attention Economy and Digital Audience Interest in Sponsored ASMR Videos
